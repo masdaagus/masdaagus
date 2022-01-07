@@ -8,16 +8,9 @@
 
 
 ### I'm a Student, Mobile Developer!!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masdaagus&show_icons=true&theme=dracula)
 - Currently learning Flutter and iOS Development blush
 - Looking to collaborate with other content creators
 - 2022 Goals: Being Full-Time Flutter Developer and contribute to open source
 - Fun fact: Always love to code and learn everything 
 
-
-### Streak stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masdaagus&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masdaagus&show_icons=true&theme=dracula) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masdaagus&theme=dark&hide_border=true)](https://git.io/streak-stats)
