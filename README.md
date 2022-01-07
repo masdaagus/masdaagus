@@ -1,4 +1,6 @@
-### Hi there, I'm Masda agus👋
+### Hi there, I'm Masda agus
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=https://twitter.com/jinsmadav)
 
 
 
@@ -17,9 +19,8 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fjinsmadav)
 
 
-<!-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)    -->
 
-
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 
 
