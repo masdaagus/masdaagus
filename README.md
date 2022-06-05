@@ -7,9 +7,8 @@
 
 
 
-### I'm a Student, Mobile Developer!!
+### I'm a Freelacer, Mobile Developer!!
 - Currently learning Flutter and iOS Development blush
-- Looking to collaborate with other content creators
 - 2022 Goals: Being Full-Time Flutter Developer and contribute to open source
 - Fun fact: Always love to code and learn everything 
 
