@@ -7,7 +7,7 @@
 
 
 
-### I'm a Freelacer, Mobile Developer!!
+### I'm a Mobile Developer at Monster Group Indonesia!!
 - Currently learning Flutter and iOS Development blush
 - 2022 Goals: Being Full-Time Flutter Developer and contribute to open source
 - Fun fact: Always love to code and learn everything 
